@@ -1,0 +1,6 @@
+mx\uaemex\dto\Libro.class
+mx\uaemex\dto\Alumno.class
+mx\uaemex\dto\Profesor.class
+mx\uaemex\dto\Persona.class
+mx\uaemex\dto\Prestamo.class
+mx\uaemex\test\TestPrestamo.class
